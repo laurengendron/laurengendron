@@ -58,7 +58,7 @@ Here are some projects you can check out:
 
 
 
-Ask ChatGPT
+
 
 
 
