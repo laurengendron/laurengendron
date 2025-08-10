@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello there (General Kenobi)
 # I'm Lauren Gendron Marquez 👋
 
 🎓 **Cybersecurity & Information Assurance Student** | Aspiring Security Ananlyst
