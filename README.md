@@ -39,6 +39,7 @@ Here are some projects you can check out:
 - CompTIA A+
 - Comptia Project+
 - ITIL Foundation
+- Linux Essensials Certification
 
 ---
 
