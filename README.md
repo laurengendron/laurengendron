@@ -25,7 +25,7 @@
 ## 📂 Projects & Portfolio
 Here are some projects you can check out:
 - Python Network Port Scanner: A basic, Python-based multithreaded port scanning tool.
-  (https://github.com/laurengendron/Py-Network-Scanner)
+- [view here] -> (https://github.com/laurengendron/Py-Network-Scanner)
 - 🔹 Coming soon!
 
 ---
