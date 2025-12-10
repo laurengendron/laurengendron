@@ -26,6 +26,8 @@
 Here are some projects you can check out:
 - Python Network Port Scanner: A basic, Python-based multithreaded port scanning tool.
 - [view here] -> (https://github.com/laurengendron/Py-Network-Scanner)
+- Splunk Sysmon Analysis: Splunk Cloud CSV ingestion
+- [view here] -> (https://github.com/laurengendron/splunk-sysmon-analysis)
 - 🔹 Coming soon!
 
 ---
