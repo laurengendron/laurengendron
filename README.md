@@ -1,12 +1,12 @@
 ## Hello there (General Kenobi)
 # I'm Lauren Gendron Marquez 👋
 
-🎓 **Cybersecurity & Information Assurance Student** | Aspiring Security Ananlyst
+🎓 Data Defender
 
 ---
 
 ## 🔍 About Me
-- 🎓 Currently in my senior term at WGU, earning my B.S. in Cybersecurity & Information Assurance
+- 🎓 I'm a cybersecuruty professional with a B.S. in Cybersecurity & Information Assurance
 - 💻 Interested in threat detection, vulnerability assessment, security automation, policy implementation, project management
 - 📚 Currently learning: Python scripting, cloud security basics, systems security
 - 🛠️ Building my [Cybersecurity GitHub Portfolio] to showcase hands-on skills
