@@ -35,8 +35,7 @@ Here are some projects you can check out:
 ---
 
 ## 📜 Certifications
-- CompTIA Pentest+ *(Expected: 08/2025)*
-- ISC2 SSCP *(Expected: 09/2025)*
+- CompTIA Pentest+
 - CompTIA CySA+
 - CompTIA Security+
 - CompTIA Network+
