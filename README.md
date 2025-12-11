@@ -28,6 +28,8 @@ Here are some projects you can check out:
 - [view here] -> (https://github.com/laurengendron/Py-Network-Scanner)
 - Splunk Sysmon Analysis: Splunk Cloud CSV ingestion
 - [view here] -> (https://github.com/laurengendron/splunk-sysmon-analysis)
+- Python Password Strength Checker: A basic, Python-based password checker.
+- [view here] -> (https://github.com/laurengendron/PasswordStrengthChecker)
 - 🔹 Coming soon!
 
 ---
