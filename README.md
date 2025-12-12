@@ -6,7 +6,7 @@
 ---
 
 ## 🔍 About Me
-- 🎓 I'm a cybersecuruty professional with a B.S. in Cybersecurity & Information Assurance
+- 🎓 I'm a cybersecurity professional with a B.S. in Cybersecurity & Information Assurance
 - 💻 Interested in threat detection, vulnerability assessment, security automation, policy implementation, project management
 - 📚 Currently learning: Python scripting, cloud security basics, systems security
 - 🛠️ Building my [Cybersecurity GitHub Portfolio] to showcase hands-on skills
