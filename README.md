@@ -30,6 +30,8 @@ Here are some projects you can check out:
 - [view here] -> (https://github.com/laurengendron/splunk-sysmon-analysis)
 - Python Password Strength Checker: A basic, Python-based password checker.
 - [view here] -> (https://github.com/laurengendron/PasswordStrengthChecker)
+- Windows Hardening Powershell Script: disabling legacy protocols, enforcing strong passwords, and configuring firewalls
+- [view here] -> (https://github.com/laurengendron/Windows-Hardening-Script/tree/main)
 - 🔹 Coming soon!
 
 ---
